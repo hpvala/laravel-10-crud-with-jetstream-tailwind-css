@@ -2,6 +2,8 @@
 node_modules/
 npm-debug.log
 yarn-error.log
+/public/css/app.css
+/public/js/*
 
 # Laravel 4 specific
 bootstrap/compiled.php
@@ -21,3 +23,7 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+## MACOS specifics
+# General
+.DS_Store

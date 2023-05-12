@@ -26,5 +26,5 @@ Route::middleware([
     Route::get('/dashboard', function () {
         return view('dashboard');
     })->name('dashboard');
-    Route::get('posts', Posts::class)->middleware('auth');
+    Route::get('posts', Posts::class)->middleware('auth')->name('posts');
 });
