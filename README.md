@@ -1,4 +1,4 @@
-# Laravel 10 Livewire CRUD With Jetstream And Tailwind CSS
+## Laravel 10 Livewire CRUD With Jetstream And Tailwind CSS
 
 <p align="center"><a href="https://github.com/hiteshsamcom/google-map-marker" target="_blank"><img src="https://avatars.githubusercontent.com/u/92365321?v=4" width="150" alt="Hitesh Logo"></a></p>
 
